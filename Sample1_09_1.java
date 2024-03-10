@@ -19,7 +19,10 @@ class Sample1_09_1 {
 		boolean check2 = name.equals( args[0] ) ;
 		
 		System.out.println("check2:" + check2 );
-
+		
+		
+		
+		
 		String  nameOfficial1 = new String("moco") ;  
 		String  nameOfficial2 = new String("moco") ;  
 		String  nameGizi1   = "moco" ;                
