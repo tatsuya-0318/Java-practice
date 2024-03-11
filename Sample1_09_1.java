@@ -6,10 +6,7 @@ class Sample1_09_1 {
 		int[][] rooms = {{101, 102, 103}, {201, 202, 203}, {301, 302, 303}} ;
 		
 		System.out.println("rooms:" + rooms );
-		
-		
-		
-		
+
 		String  name   = "moco" ;
 		
 		boolean check1 = name == args[0] ;
@@ -19,10 +16,7 @@ class Sample1_09_1 {
 		boolean check2 = name.equals( args[0] ) ;
 		
 		System.out.println("check2:" + check2 );
-		
-		
-		
-		
+
 		String  nameOfficial1 = new String("moco") ;  
 		String  nameOfficial2 = new String("moco") ;  
 		String  nameGizi1   = "moco" ;                
@@ -36,6 +30,7 @@ class Sample1_09_1 {
 		
 		boolean check5 = nameGizi1 == nameGizi2 ;
 		System.out.println("check5:" + check5 );
+		
 		
 	}
 }
