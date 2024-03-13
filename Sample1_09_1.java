@@ -31,5 +31,6 @@ class Sample1_09_1 {
 		boolean check5 = nameGizi1 == nameGizi2 ;
 		System.out.println("check5:" + check5 );
 		
+		
 	}
 }
