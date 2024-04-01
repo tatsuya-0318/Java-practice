@@ -32,6 +32,5 @@ class Sample1_09_1 {
 		System.out.println("check5:" + check5 );
 		
 		
-		
 	}
 }
