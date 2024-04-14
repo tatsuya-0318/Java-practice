@@ -3,6 +3,7 @@ class Sample1_09_1 {
 		
 		
 		
+		
 		int[][] rooms = {{101, 102, 103}, {201, 202, 203}, {301, 302, 303}} ;
 		
 		System.out.println("rooms:" + rooms );
