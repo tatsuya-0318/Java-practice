@@ -1,7 +1,6 @@
 class Sample1_09_1 {
 	public static void main (String[] args) {
 	
-
 		
 		int[][] rooms = {{101, 102, 103}, {201, 202, 203}, {301, 302, 303}} ;
 		
